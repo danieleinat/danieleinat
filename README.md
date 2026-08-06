@@ -11,4 +11,4 @@ and honest write-ups about what broke and what I'd do differently.
 
 **Currently learning:** DOM manipulation, then React.
 
-Find me on [[LinkedIn](your-url)](https://www.linkedin.com/in/daniel-einat/) or at danieleinat7@gmail.com
+Find me on https://www.linkedin.com/in/daniel-einat/ or at danieleinat7@gmail.com
